@@ -1,6 +1,6 @@
 ## 👋 Hello everybody, I'm Rodolpho Maia from Home Office Land. :computer:
 
-:sunglasses: I'm a fullstack developer, currently working on a company from my hometown Belo Horizonte/MG - Brazil
+:sunglasses: I'm a Full Stack Developer, currently working on a company from my hometown Belo Horizonte/MG - Brazil
 
 :mortar_board: I have a degree in System Analysis and Development
 
