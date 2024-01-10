@@ -4,9 +4,9 @@
 
 🎓 I have a degree in System Analysis and Development
 
-💡 I’m interested in Web Applications and Mobile Development.
+💡 I'm interested in Web Applications and Mobile Development.
 
-📖 I’m currently learning Swift and Design Patterns for iOS Development and expanding my knowledge of Web Development.
+📖 I'm currently learning Swift and Design Patterns for iOS Development and expanding my knowledge of Web Development.
 
 💌 If you like my profile, repositories, want to offer me a job or just want to chat, you can reach me on linkedin https://www.linkedin.com/in/rodolpho-maia
 
